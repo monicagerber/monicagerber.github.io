@@ -3,28 +3,17 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## Hello!  
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+My name is Monica Gerber. I am a biostatistician and epidemiologist at a hospital in Boston, MA in the department of psychiatry. I'm interested in psychiatric epidemiology and translational epidemiology. I have a MPH (biostatistics & epidemiology concentraions) from [Boston University School of Public Health](https://www.bu.edu/sph/) and a BA in anthropology from [Reed College](https://www.reed.edu).  
 
-There are currently two themes built on Poole:
+I'm passionate about the field of public health. I think communicating findings, both to other researchers and to the public, is key to improving population health.  
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+When I'm not doing research you can find me riding my bike, cooking Mexican food, making homemade bitters, and reading nerdy books about statistics.  
 
-Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+### Find me other places
+You can find me on twitter: [@mwgerber](https://twitter.com/mwgerber).  
+You can also find me github: [monicagerber](https://github.com/monicagerber). I'm learning how to use R, Git, and other tools to make my research replicable.
 
 Thanks for reading!
