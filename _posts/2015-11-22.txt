@@ -1,0 +1,7 @@
+---
+layout: post
+title: Hi, there
+---
+
+Welcome to my new blog. This is actually the first blog I have ever written. Wish me luck!
+
