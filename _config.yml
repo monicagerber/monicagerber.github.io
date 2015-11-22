@@ -18,4 +18,7 @@ author:
   url:               https://twitter.com/mwgerber
   email:             mwgerber@gmail.com
 
-
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
